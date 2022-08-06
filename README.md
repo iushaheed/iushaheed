@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 3. React Native
 4. SQL
 5. Active Directory
+
+[Linkedin](https://au.linkedin.com/in/iushaheed)
+[Facebook](http://facebook.com/emamush)
