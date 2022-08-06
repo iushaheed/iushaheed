@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+1. Java
+2. JavaScript
+3. React Native
+4. SQL
+5. Active Directory
